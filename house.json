@@ -2,5 +2,19 @@
     "house width ": "200m",
     "house height": "500m",
     "rooms": "5",
-    "bedrooms (includes living room)": 3
+    "bedrooms (includes living room)": 3,
+    "family": {
+        "owners": [
+            ["Jason Carter", 1],
+            ["Jules Carter", 2],
+            ["Gabriel Carter", 3],
+            ["Lucy Carter", 4]
+        ],
+        "1-status": "Adult",
+        "2-status": "Adult",
+        "3-status": "Kid",
+        "4-status": "Pre-mature Adult"
+    }
 }
+
+
